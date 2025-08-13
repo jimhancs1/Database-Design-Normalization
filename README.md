@@ -131,5 +131,3 @@ See the [LICENSE](LICENSE) file for details.
 * The ERD is available in `assets/ERD.png`.
 
 ---
-erate **all code for those files** now?
-```
