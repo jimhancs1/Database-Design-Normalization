@@ -18,7 +18,7 @@ It covers:
 - `Categories`
 
 **ERD:**
-![ERD Diagram](schema/erd.png)
+![ERD Diagram](schema/ERD.png)
 
 ## ⚙️ Features
 - Fully normalized schema
