@@ -16,7 +16,7 @@ This repository demonstrates the process of designing, normalizing, and implemen
 Database-Design-Normalization/
 │
 ├── assets/
-│   ├── chart.js               # Chart.js library
+│   ├── chart.js                # Chart.js library
 │   ├── style.css               # Dashboard styles
 │   └── ERD.png                 # Entity-Relationship Diagram
 │
@@ -24,12 +24,12 @@ Database-Design-Normalization/
 ├── README.md                   # Project documentation
 ├── admin.php                   # Admin dashboard with data visualization
 ├── config.php                  # Database connection settings
-├── ecommerce\_db.sql            # Full normalized database schema
+├── ecommerce\_db.sql           # Full normalized database schema
 ├── index.php                   # Landing page
-├── insert\_sample\_data.sql      # Sample dataset for testing
-├── order\_details.php           # View specific order details
+├── insert\_sample\_data.sql    # Sample dataset for testing
+├── order\_details.php          # View specific order details
 ├── orders.php                  # List of all orders
-└── sample\_queries.sql          # Example analytics queries
+└── sample\_queries.sql         # Example analytics queries
 
 ````
 
